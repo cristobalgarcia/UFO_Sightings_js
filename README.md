@@ -6,7 +6,7 @@ The purpose of the project is to filter JSON data into organized and user friend
 
 ![alt text](https://github.com/cristobalgarcia/UFO_Sightings_js/blob/6b8565c584d2e9b08122a80381fc5a4bbde8a613/static/images/Screen%20Shot%202022-04-06%20at%2010.01.54%20PM.png)
 
-![alt text]()
+![alt text](https://github.com/cristobalgarcia/UFO_Sightings_js/blob/20223f288214c524fe0816a7506b24dfc60f299a/static/images/Screen%20Shot%202022-04-06%20at%2010.02.14%20PM.png)
 
 ![alt text]()
 
